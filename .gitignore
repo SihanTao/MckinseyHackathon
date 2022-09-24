@@ -1,0 +1,6 @@
+images
+sample_images
+*.txt
+*.json
+meta-data-files
+__pycache__
